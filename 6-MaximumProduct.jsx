@@ -1,0 +1,1 @@
+var maxProduct = function (nums) {};
