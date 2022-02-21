@@ -8,3 +8,4 @@ Daily LeetCode Problem To Solve
   - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) #HashMap
   - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
   - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+  - [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
