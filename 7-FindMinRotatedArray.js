@@ -5,12 +5,12 @@ var findMin = function (nums) {
   let res = nums[0];
   while (l <= r) {
     if (nums[l] < nums[r]) {
-      res = Math.max(res, nums[l]);
+      res = Math.min(res, nums[l]);
       break;
     }
 
     min = Math.floor((r + l) / 2);
-    res = Math.max(res, nums[min]);
+    res = Math.min(res, nums[min]);
 
     if (nums[min] >= nums[l]) {
       l = min + 1;
@@ -22,4 +22,4 @@ var findMin = function (nums) {
   return res;
 };
 
-console.log(findMin([4, 5, 6, 7, 0, 1, 2])); // 0
+console.log(findMin([3, 4, 5, 1, 2])); // 0
