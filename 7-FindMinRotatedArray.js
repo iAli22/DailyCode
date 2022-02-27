@@ -22,4 +22,4 @@ var findMin = function (nums) {
   return res;
 };
 
-console.log(findMin([3, 4, 5, 1, 2])); // 0
+console.log(findMin([3, 4, 5, 1, 2]));
