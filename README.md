@@ -11,3 +11,4 @@ Daily LeetCode Problem To Solve
   - [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
   - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
   - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+  - [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
