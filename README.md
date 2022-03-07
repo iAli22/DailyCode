@@ -12,3 +12,5 @@ Daily LeetCode Problem To Solve
   - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
   - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
   - [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
+  - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+  - [3sum](https://leetcode.com/problems/3sum/)
